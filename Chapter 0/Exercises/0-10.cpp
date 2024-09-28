@@ -4,8 +4,15 @@
 // a small C++ program
 #include <iostream>
 
-int main()
+int 
+main
+(void)
 {
-    std::cout << "Hello,\n\rworld!\n\r" << std::endl;
-    return 0;
+  std::cout 
+    <<
+    "Hello, world"
+    << 
+  std::endl;
+
+  return 0;
 }

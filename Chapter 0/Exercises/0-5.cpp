@@ -4,4 +4,3 @@
 // int main()    std::cout << "Hello, world!" << std::endl;
 
 // Solution: No, because this program lacks {}.
-
